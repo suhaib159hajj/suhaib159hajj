@@ -13,7 +13,10 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhaib159hajj)](https://github.com/anuraghazra/github-readme-stats)
 
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhaib159hajj)](https://github.com/suhaib159hajj/github-readme-stats)
 
+## Contact me via:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Suhib_AlHaj_M)  
 
 
